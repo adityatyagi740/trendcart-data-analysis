@@ -70,12 +70,6 @@ Based on data findings, three key strategic actions were provided to management:
 
 ---
 
-## 🚀 How to Run This Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/trendcart-data-analysis.git](https://github.com/your-username/trendcart-data-analysis.git)
-   cd trendcart-data-analysis
 
    📄 Author & Acknowledgments
 Author: Aaditya Kumar 
